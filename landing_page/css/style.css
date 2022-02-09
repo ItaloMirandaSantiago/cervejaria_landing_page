@@ -87,3 +87,16 @@ section.princ{
     margin-top: 15px;
     margin-right: 7px;
 }
+
+@media (max-width:500px) {
+    .princ_title{
+        margin-top: 0;
+        margin-bottom: 40px;
+        margin-left: 5px;
+    }
+
+    .img_princ{
+        width: 295px;
+        height: 337px;
+    }
+}
