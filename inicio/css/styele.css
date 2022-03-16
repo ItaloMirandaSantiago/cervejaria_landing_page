@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+
+    background-color: orange;
+}
+/* comeco do menu */
+
+/* comeco dos slides */
+.slides{
+    position: relative;
+
+    width: 80%;
+    max-width: 500px;
+    height: 25vw;
+    max-height: 250px;
+}
+
+.slide_img{
+    opacity: 0;
+
+    position: absolute;
+
+    width: 100%;
+    height: 100%;
+
+    object-fit: cover;
+
+    transition: opacity 1000ms;
+}
+
+.slides img.selected{
+    opacity: 1;
+}
