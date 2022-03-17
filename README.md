@@ -1,6 +1,6 @@
 <h1>link da página <a href="https://italomirandasantiago.github.io/cervejaria_landing_page/landing_page/" target="_black">aqui</a></h1>
 
-atualmente, apenas o menu e a landing-page estão prontos.
+atualmente, o menu(responsivo), o inicio e a landing-page(responsiva) estão prontos, faltando o contanto
 
 <h2> Tecnologias </h2>
 
