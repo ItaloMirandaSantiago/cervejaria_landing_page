@@ -26,21 +26,27 @@ a:hover{
     color: red;
 }
 
-.flex{
+.flex_menu{
     display: flex;
-    flex-direction: center;
     justify-content: center;
     justify-content: space-around;
-    align-items: center
+    align-items: center;
+    justify-content: space-around;
 }
 
 /* começo dos slides */
+.flex{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+}
+
 .fundo{
     background-color: yellow;
 }
 
 .slides{
-
 
     position: relative;
 

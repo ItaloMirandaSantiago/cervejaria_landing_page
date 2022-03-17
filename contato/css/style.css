@@ -1,0 +1,28 @@
+
+body{
+    background-color: gray;
+}
+
+.menu{
+    display: grid;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+    grid-template-columns: 100px 100px;
+    justify-content: space-evenly
+}
+
+.img_div{
+    display: grid;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+    grid-template-columns: 100px 100px 100px;
+}
+
+.imgs{
+    margin-left: 8px;
+    text-decoration: none;
+}
