@@ -3,7 +3,7 @@ body{
     background-color: gray;
 }
 
-.menu{
+.menu{    
     display: grid;
     align-items: center;
     align-content: center;

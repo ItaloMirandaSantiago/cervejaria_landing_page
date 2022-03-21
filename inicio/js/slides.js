@@ -5,7 +5,6 @@ let time = 300,
 
 function mudar_img() {
     images[currentImageIndex].classList.remove('selected')
-
     currentImageIndex++
 
     if (currentImageIndex >= max) {
