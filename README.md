@@ -1,4 +1,4 @@
-<h1>link da página <a href="https://italomirandasantiago.github.io/cervejaria_landing_page/landing_page/" target="_black">aqui</a></h1>
+<h1>link da página <a href="https://italomirandasantiago.github.io/site-loja-virtual/landing_page/" target="_black">aqui</a></h1>
 
 <h2> Tecnologias </h2>
 <ul> 
